@@ -53,7 +53,7 @@ Despite using a custom C++ implementation without GPU acceleration, the network 
 
 | Metric | Result |
 | :--- | :--- |
-| **Final Training Error (MSE)** | `0.0019` [cite: 775] |
+| **Final Training Error (MSE)** | `0.0019` |
 | **Test Set Accuracy** | **85.20%** (852/1000 Correct) |
 | **Best Class Performance** | Digit **"1"** with **97.0%** accuracy |
 | **Hardest Class** | Digit **"3"** with **71.0%** accuracy (due to morphological complexity) |
